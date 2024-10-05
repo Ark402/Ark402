@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Ark402
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Criminology & Security Management
-- 💞️ I’m looking to collaborate on evolving technical Security
+Technical Security Enthusiast 
   
 
 <!---
